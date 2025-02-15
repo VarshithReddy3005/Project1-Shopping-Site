@@ -1,0 +1,17 @@
+.nav-item {
+  margin-right: 5rem;
+  font-size: 30px;
+}
+
+footer {
+  bottom: 0;
+  padding: 20px;
+}
+
+.form-control {
+  size: 0cap;
+}
+
+.card {
+  cursor: pointer;
+}
